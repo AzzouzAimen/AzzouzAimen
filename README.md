@@ -43,9 +43,11 @@
 <a href="https://linkedin.com/in/azzouz-abdellah-aimen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="azzouz-abdellah-aimen" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzouzaimen&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Aimen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azzouzaimen&theme=transparent&layout=donut&langs_count=8&border_radius=8&show_icons=true&locale=en" alt="Aimen's Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/azzouzaimen/azzouzaimen/main/profile-summary-card-output/algolia/3-stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/azzouzaimen/azzouzaimen/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="repos-per-language" />
 </p>
 
 <p align="center">
